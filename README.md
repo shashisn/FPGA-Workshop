@@ -22,5 +22,31 @@
 <br />
 <br /> Area Report
 <br /> ![Area report](https://user-images.githubusercontent.com/69295749/160341244-38f1ddf7-6cf9-40fd-a36b-420063d82b73.jpg)
-
+<br />
+<br />
+<br /> Day 3
+<br />
+<br /> RISC V
+<br /> Setting up of Vivado Project. The files used are "mythcore_test_no_ILA.v" and "test.v" from fpga_workshop_collaterals
+<br />![mythcore_test_no_ILA v](https://user-images.githubusercontent.com/69295749/160451385-cb55470c-84d4-4b3d-a182-4e6a283d6653.jpg)
+<br />
+<br />Simulation results
+<br /> ![simulation results](https://user-images.githubusercontent.com/69295749/160451485-ce116ccd-f602-457b-ac16-5ca302a3b775.jpg)
+<br />
+<br /> Timing summary
+<br /> ![timing summar](https://user-images.githubusercontent.com/69295749/160451516-8e5faf0b-d1ea-4090-8da4-443fa4f555d6.jpg)
+<br />
+<br />
+<br />Day 4
+<br />
+<br /> Skywater Opensource FPGAs
+<br />
+<br />open fpga run
+<br />![Open FPGA run](https://user-images.githubusercontent.com/69295749/160452238-1b1c090d-587a-421d-8c03-7e36ed6674aa.jpg)
+<br />
+<br /> Open FPGA run for counter
+<br /> ![open fpga run for counter](https://user-images.githubusercontent.com/69295749/160452419-1bc145ef-01ac-4cad-94b0-2b94ce1a1b58.jpg)
+<br />
+<br /> post synthesis design simulation
+<br />![post synthesis design simulation](https://user-images.githubusercontent.com/69295749/160452565-f1b0c39c-e9ed-46c1-8506-889e94441552.jpg)
 
