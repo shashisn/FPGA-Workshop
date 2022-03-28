@@ -1,4 +1,4 @@
-# FPGA-Workshop <br \>
+# FPGA-Workshop
 <br />Day 1: Counter Design & Implementation
 <br /> Counter
 <br /> ![counter](https://user-images.githubusercontent.com/69295749/160335658-a66818c6-14f7-4efe-bf7e-adb9f707a478.jpg)
